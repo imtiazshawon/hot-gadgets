@@ -1,0 +1,64 @@
+.banner{
+    margin-top: 20px;
+   }
+   .phone{
+       margin-top: 50px;
+   }
+   .navbar-brand img{
+       width: 50%;
+   }
+   .buy-now-button{
+       color: white;
+       background-color: black;
+       border: none;
+       border-radius: 8px;
+       padding: 9px 25px;
+       cursor: pointer;
+   }
+   .card-footer{
+       text-align: center;
+       border-top: none;
+   }
+   .card-body h3{
+       text-align: center;
+   }
+   #btn1{
+       border-top: none;
+       background-color: white;
+   }
+   #btn2{
+       border-top: none;
+       background-color: white;
+   }
+   #btn3{
+       border-top: none;
+       background-color: white;
+   }
+   .card{
+       box-shadow: 5px 5px 10px lightgray;
+       border: none;
+   }
+   .ms-auto h6{
+       color: orange;
+   }
+   
+   .laptop{
+       margin-top: 70px;
+   }
+   
+   .categories{
+       margin-top: 70px;
+   }
+   #pale-order{
+       width: 80%;
+   }
+   .image{
+       background-color: white;
+       padding: 10px 30px;
+       box-shadow: 5px 5px 10px lightgray;
+       border-radius: 10px;
+       width: 25%;
+   }
+   .row{
+       padding-top: 50px;
+   }
